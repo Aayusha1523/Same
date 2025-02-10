@@ -379,6 +379,6 @@
 
 //JSON javascript object notation-- less coding light weight 
 
-// Data Types in json are= String,Number,Boolean,Array, Object, Null
+// Data Types in json are= String,Number,Boolean,Array, Object, Null,merge
 
 
