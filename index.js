@@ -379,6 +379,8 @@
 
 //JSON javascript object notation-- less coding light weight 
 
-// Data Types in json are= String,Number,Boolean,Array, Object, Null
+// Data Types in json are= String,Number,Boolean,Array, Object, Null,Abc
 
+// git push commit fetch pull merge revert log status
 
+// We couldn't merge the aaysuha and test as it is in same folder so 
