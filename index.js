@@ -374,7 +374,7 @@
 //   } catch (error) {
 //     console.log("err", error);
 //   }
-// }
+// }git 
 // getData();
 
 //JSON javascript object notation-- less coding light weight 
