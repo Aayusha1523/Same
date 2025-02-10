@@ -379,11 +379,7 @@
 
 //JSON javascript object notation-- less coding light weight 
 
-<<<<<<< HEAD
 // Data Types in json are= String,Number,Boolean,Array, Object, Null,Abc
-=======
-// Data Types in json are= String,Number,Boolean,Array, Object, Null,merge
->>>>>>> 73c92c9bc88616ec28033c228d2bd82a1a500dce
 
 // git push commit fetch pull merge revert log status
 
